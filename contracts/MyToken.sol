@@ -4,11 +4,11 @@ pragma solidity ^0.8.0;
 
 import "./ERC721.sol";
 
-string constant name = "MyToken";
+string constant name = "criptomoeda terrareal";
 
-string constant symbol = "MTKN";
+string constant symbol = "CTR";
 
-contract MyToken is ERC721(name, symbol) {
+contract criptomoeda terrareal is ERC721(CTR, symbol) {
 
 
 }
