@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: MIT
+autocreate criptomoeda 
+pragma solidity ^0.8.0;
+formatcreat criptomoeda 
+import "./ERC721.sol";
+run contrato criptomoeda 
+string constant name = "criptomoeda terrareal";
+run remix_priject terrareal 
+string constant symbol = "CTR";
+restore
+contract criptomoeda terrareal is ERC721(CTR, symbol) {
+tan
+funciob
+}
